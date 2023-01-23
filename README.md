@@ -1,6 +1,6 @@
 ### Hi there, I’m Bilal Tonga👋
 
-- 👀 I’m interested in developing high quality reactive systems and Data engineering.
+- 👀 I’m interested in developing bullet proof, innovative and good-for-people softwares.
 - 🌱 I’m currently learning about Data Science and Generative Data Art.
 - 💞️ I’m looking to collaborate on Data Science, Visualization.
 - 📫 How to reach me, [Linkedin](https://linkedin.com/in/bilaltonga)
