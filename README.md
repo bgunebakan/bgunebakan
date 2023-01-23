@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I’m Bilal Tonga👋
 
-<!--
-**bgunebakan/bgunebakan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👀 I’m interested in developing high quality reactive systems and Data engineering.
+- 🌱 I’m currently learning about Data Science and Generative Data Art.
+- 💞️ I’m looking to collaborate on Data Science, Visualization.
+- 📫 How to reach me, [Linkedin](https://linkedin.com/in/bilaltonga)
 
-Here are some ideas to get you started:
+<!---
+bgunebakan/bgunebakan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgunebakan&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bgunebakan)](https://github.com/anuraghazra/github-readme-stats)
